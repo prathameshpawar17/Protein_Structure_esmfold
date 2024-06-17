@@ -2,9 +2,7 @@
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://esmfold.streamlit.app/)
 
-## Credit
-
-This app was inspired by [osanseviero's app](https://huggingface.co/spaces/osanseviero/esmfold).
+ 
 
 ## Further Reading
 For more information, read the following articles:
